@@ -106,7 +106,7 @@ exp(1)         # Euler's number  e^1 ≈ 2.718
 #  A variable is a named container for a value.
 #  R uses  <-  as its assignment operator (preferred over =).
 
-age      <- 28
+edad      <- 28
 height   <- 1.75          # meters
 name     <- "Ana García"  # text (character) — always use quotes
 is_grad  <- TRUE          # logical: TRUE or FALSE
