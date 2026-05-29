@@ -1,6 +1,6 @@
 # =============================================================================
 #  03_VISUALIZATION_GGPLOT2.R
-#  Modelos de Predicción Analítica — Postgraduate Course
+#  Modelos de Predicción Analítica
 # =============================================================================
 #
 #  "A picture is worth a thousand regression coefficients."

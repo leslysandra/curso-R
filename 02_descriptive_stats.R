@@ -1,6 +1,6 @@
 # =============================================================================
 #  02_DESCRIPTIVE_STATS.R
-#  Modelos de Predicción Analítica — Postgraduate Course
+#  Modelos de Predicción Analítica
 # =============================================================================
 #
 #  "Before you model, you must understand."

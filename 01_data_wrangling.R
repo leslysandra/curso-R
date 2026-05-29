@@ -1,6 +1,6 @@
 # =============================================================================
 #  01_DATA_WRANGLING.R
-#  Modelos de Predicción Analítica — Postgraduate Course
+#  Modelos de Predicción Analítica
 # =============================================================================
 #
 #  "Data scientists spend 80% of their time cleaning data.

@@ -1,6 +1,6 @@
 # =============================================================================
 #  04_FEATURE_ENGINEERING.R
-#  Modelos de Predicción Analítica — Postgraduate Course
+#  Modelos de Predicción Analítica
 # =============================================================================
 #
 #  "Feature engineering is the art of turning raw data into information
